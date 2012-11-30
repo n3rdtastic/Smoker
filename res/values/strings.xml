@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Smoker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_smoker">Smoker</string>
+    <string name="smoke_button_text">Smoke!</string>
+
+</resources>
